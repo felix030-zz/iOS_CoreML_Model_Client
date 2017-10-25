@@ -21,6 +21,7 @@
 		BF43A0661F90BC5600D1E3B4 /* testPerspective1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = BF43A0651F90BC5500D1E3B4 /* testPerspective1.mlmodel */; };
 		BF49CF9A1F8D2CFC00DF016A /* FrameExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF49CF991F8D2CFC00DF016A /* FrameExtractor.swift */; };
 		BF5A44D81F8E5E9D00849796 /* fan3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = BF5A44D71F8E5E9D00849796 /* fan3.mlmodel */; };
+		BF66037A1FA07C4600E5B9AC /* if_camera_1646008.icns in Resources */ = {isa = PBXBuildFile; fileRef = BF6603791FA07C4600E5B9AC /* if_camera_1646008.icns */; };
 		BFBB26D41F8E507B00B114CC /* food.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = BFBB26D11F8E4B9900B114CC /* food.mlmodel */; };
 		BFBB26D61F8E508100B114CC /* fan2.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = BFBB26D01F8E4B8D00B114CC /* fan2.mlmodel */; };
 /* End PBXBuildFile section */
@@ -42,6 +43,7 @@
 		BF43A0651F90BC5500D1E3B4 /* testPerspective1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = testPerspective1.mlmodel; sourceTree = "<group>"; };
 		BF49CF991F8D2CFC00DF016A /* FrameExtractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameExtractor.swift; sourceTree = "<group>"; };
 		BF5A44D71F8E5E9D00849796 /* fan3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = fan3.mlmodel; sourceTree = "<group>"; };
+		BF6603791FA07C4600E5B9AC /* if_camera_1646008.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = if_camera_1646008.icns; sourceTree = "<group>"; };
 		BFBB26D01F8E4B8D00B114CC /* fan2.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = fan2.mlmodel; sourceTree = "<group>"; };
 		BFBB26D11F8E4B9900B114CC /* food.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = food.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -86,6 +88,7 @@
 				BF3646931F8CD1FE00114DEA /* ViewController.swift */,
 				BF3646951F8CD1FE00114DEA /* Main.storyboard */,
 				BF3646981F8CD1FE00114DEA /* Assets.xcassets */,
+				BF6603791FA07C4600E5B9AC /* if_camera_1646008.icns */,
 				BF36469A1F8CD1FE00114DEA /* LaunchScreen.storyboard */,
 				BF36469D1F8CD1FE00114DEA /* Info.plist */,
 			);
@@ -165,6 +168,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF66037A1FA07C4600E5B9AC /* if_camera_1646008.icns in Resources */,
 				BF40A62A1F8CFEED007E9FD0 /* TestPicFan2.jpg in Resources */,
 				BF40A6291F8CFEED007E9FD0 /* TestPicFan1.jpg in Resources */,
 				BF40A6281F8CFEED007E9FD0 /* TestPicFan4.jpg in Resources */,
