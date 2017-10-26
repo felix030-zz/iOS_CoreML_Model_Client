@@ -46,7 +46,7 @@ class ViewController: UIViewController, FrameExtractorDelegate {
     }
 
     func detectScene(image: CIImage) {
-        guard let model = try? VNCoreMLModel(for: testPerspective1().model) else {
+        guard let model = try? VNCoreMLModel(for: MobileNet().model) else {
             fatalError()
         }
         // Create a Vision request with completion handler
